@@ -1,0 +1,5 @@
+1. Documento inicial creado para practicar GIT
+2. Ahora guardamos el documento con esta nueva linea.
+
+
+5. Esta es una evolución de la Rama Master
